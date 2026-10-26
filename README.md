@@ -63,5 +63,18 @@ I mostly work on web development, but I'm also interested in backend systems, da
 
 Currently learning, building projects, and figuring things out one step at a time.
 
+<h2 align="center">📈 My GitHub Activity</h2>
+
+<p align="center">
+  <a href="https://github.com/Amanjeet-kr">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Amanjeet-kr&theme=github-compact&hide_border=true&area=true"
+      alt="Amanjeet's GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+
 
 
