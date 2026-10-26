@@ -1,0 +1,36 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44">
+  <defs>
+    <linearGradient id="footer-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="880" height="44" fill="url(#footer-bg)"/>
+  <rect x="0" y="0" width="880" height="1" fill="#21262d"/>
+  <rect x="0" y="43" width="880" height="1" fill="#21262d"/>
+
+  <text x="14" y="28" font-family="monospace" font-size="14" fill="#00ADD1">&gt;</text>
+
+  <g font-family="monospace" font-size="13" fill="#c9d1d9">
+    <text x="32" y="28" opacity="1">
+      building things that solve real problems
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="32" y="28" opacity="0">
+      learning every day, shipping one commit at a time
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.57;0.66;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="32" y="28" opacity="0">
+      turning ideas into full-stack applications
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.67;0.90;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <rect x="852" y="15" width="8" height="16" fill="#00ADD1" rx="1">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+</svg>
