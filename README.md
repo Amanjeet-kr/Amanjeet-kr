@@ -65,13 +65,14 @@ Currently learning, building projects, and figuring things out one step at a tim
 
 ### Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Amanjeet-kr"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
+p align="center">
+  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=arvelquigley99&accent=00add1&cell=sharp&hide_border=true"/>
+  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=arvelquigley99&accent=00add1&cell=sharp&hide_border=true"/>
 </p>
+<p align="center">
+  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=arvelquigley99&accent=00add1&cell=sharp&hide_border=true"/>
+</p>
+
 
 
 
