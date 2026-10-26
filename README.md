@@ -63,7 +63,7 @@ I mostly work on web development, but I'm also interested in backend systems, da
 
 Currently learning, building projects, and figuring things out one step at a time.
 
-<h2 align="center">📈 My GitHub Activity</h2>
+### Activity
 
 <p align="center">
   <img
