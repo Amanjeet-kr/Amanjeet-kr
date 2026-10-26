@@ -6,3 +6,11 @@
     alt="Amanjeet Kumar — Full-Stack Developer in Progress"
   >
 </p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Amanjeet-kr/Amanjeet-kr/main/assets/footer.svg"
+    width="880"
+    alt="Developer thoughts footer"
+  >
+</p>
