@@ -76,9 +76,11 @@ Currently learning, building projects, and figuring things out one step at a tim
 </p>
 
 <p align="center">
-  <img width="720"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Amanjeet-kr&bg_color=0d1117&color=c9d1d9&line=00ADD1&point=ffffff&area=true&hide_border=true"
-       alt="GitHub Activity Graph"/>
+  <img
+    width="880"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Amanjeet-kr&bg_color=0d1117&color=c9d1d9&line=00ADD1&point=ffffff&area=true&hide_border=true"
+    alt="Amanjeet's GitHub Activity Graph"
+  />
 </p>
 
 
