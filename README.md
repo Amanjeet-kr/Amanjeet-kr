@@ -65,12 +65,20 @@ Currently learning, building projects, and figuring things out one step at a tim
 
 ### Activity
 
+
 <p align="center">
-  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=arvelquigley99&accent=00add1&cell=sharp&hide_border=true"/>
-  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=arvelquigley99&accent=00add1&cell=sharp&hide_border=true"/>
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Amanjeet-kr&show_icons=true&hide_border=true&title_color=00ADD1&icon_color=00ADD1&text_color=c9d1d9&bg_color=0d1117"
+       alt="GitHub Stats"/>
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjeet-kr&layout=compact&hide_border=true&title_color=00ADD1&text_color=c9d1d9&bg_color=0d1117"
+       alt="Top Languages"/>
 </p>
+
 <p align="center">
-  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=arvelquigley99&accent=00add1&cell=sharp&hide_border=true"/>
+  <img width="720"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Amanjeet-kr&bg_color=0d1117&color=c9d1d9&line=00ADD1&point=ffffff&area=true&hide_border=true"
+       alt="GitHub Activity Graph"/>
 </p>
 
 
